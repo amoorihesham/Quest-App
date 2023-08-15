@@ -1,0 +1,7 @@
+textarea {
+  height: 180px;
+  resize: none;
+}
+.contact {
+  box-shadow: inset 0 19px 14px 0px #2929290f,inset 0 -19px 14px 0px #2929290f;
+}
